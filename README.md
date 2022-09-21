@@ -1,6 +1,6 @@
-< h1> Construindo o Primeiro Projeto Lógico de Banco de Dados </h1> 
+<h1> Construindo o Primeiro Projeto Lógico de Banco de Dados </h1> 
 
-<h2>Descrição do Desafio </h2>
+Descrição do Desafio
 Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
 
 Assim como demonstrado durante o desafio, realize a criação do Script SQL para criação do esquema do banco de dados. Posteriormente, realize a persistência de dados para realização de testes. Especifique ainda queries mais complexas dos que apresentadas durante a explicação do desafio. Sendo assim, crie queries SQL com as cláusulas abaixo:
@@ -19,7 +19,7 @@ As cláusulas podem estar presentes em mais de uma query;
 O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
 Objetivo:
-[Relembrando] Aplique o mapeamento para o cenário:
+[Relembrando] Aplique o mapeamento para o  cenário:
 
 “Refine o modelo apresentado acrescentando os seguintes pontos”
 
@@ -32,3 +32,4 @@ Quantos pedidos foram feitos por cada cliente?
 Algum vendedor também é fornecedor?
 Relação de produtos fornecedores e estoques;
 Relação de nomes dos fornecedores e nomes dos produtos;
+Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
