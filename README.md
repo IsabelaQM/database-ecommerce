@@ -24,13 +24,12 @@ Aplique o mapeamento para o  cenário:
 
 “Refine o modelo apresentado acrescentando os seguintes pontos”
 
-Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
-Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
-Entrega – Possui status e código de rastreio;
-Algumas das perguntas que podes fazer para embasar as queries SQL:
+- Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
+- Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
+- Entrega – Possui status e código de rastreio;
 
-Quantos pedidos foram feitos por cada cliente?
-Algum vendedor também é fornecedor?
-Relação de produtos fornecedores e estoques;
-Relação de nomes dos fornecedores e nomes dos produtos;
-Agora é a sua vez de ser o protagonista! Implemente o desafio sugerido pela expert e suba seu projeto para um repositório próprio, com isso, você aumentará ainda mais seu portfólio de projetos no GitHub!
+Algumas das perguntas que podem ser feitas para o embasamento das queries SQL:
+- Quantos pedidos foram feitos por cada cliente?
+- Algum vendedor também é fornecedor?
+- Relação de produtos fornecedores e estoques;
+- Relação de nomes dos fornecedores e nomes dos produtos.
