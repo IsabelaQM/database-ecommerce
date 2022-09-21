@@ -19,10 +19,8 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 - As cláusulas podem estar presentes em mais de uma query;
 - O projeto deverá ser adicionado a um repositório do Github para futura avaliação do desafio de projeto. Adicione ao Readme a descrição do projeto lógico para fornecer o contexto sobre seu esquema lógico apresentado.
 
-<h3> Objetivo: </h3>
-Aplique o mapeamento para o  cenário:
-
-“Refine o modelo apresentado acrescentando os seguintes pontos”
+<h3> Objetivo </h3>
+Aplique o mapeamento para o  cenário: “Refine o modelo apresentado acrescentando os seguintes pontos”
 
 - Cliente PJ e PF – Uma conta pode ser PJ ou PF, mas não pode ter as duas informações;
 - Pagamento – Pode ter cadastrado mais de uma forma de pagamento;
